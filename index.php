@@ -52,7 +52,7 @@
              <label>
                User Name<span class="req">*</span>
              </label>
-             <input type="text"required autocomplete="off" name='user_name' />
+             <input type="text" autocomplete="off" name='user_name' required />
            </div>
            <div class="field-wrap">
              <label>
